@@ -1,4 +1,4 @@
 # cpp
 cpp program
-hii there !
+hii !
 this is my first upload on github 
